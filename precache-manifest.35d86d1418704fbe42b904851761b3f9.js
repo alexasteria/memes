@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "504c00efabc28e4c9ed685646d6eb98a",
+    "revision": "550ce7026fcd55cbb7ccf30e1a933b13",
     "url": "/memes/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/memes/static/js/2.e935ad18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ee0ca0c1c59a446c0c9",
-    "url": "/memes/static/js/main.e5e68f7f.chunk.js"
+    "revision": "8a76a61347191a48757d",
+    "url": "/memes/static/js/main.3b94e5bc.chunk.js"
   },
   {
     "revision": "8fe99b4cc464277b9b93",
