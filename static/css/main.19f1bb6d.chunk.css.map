@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,WACI,kBAAmB,CACnB,0BACJ","file":"main.19f1bb6d.chunk.css","sourcesContent":["@font-face {\r\n    font-family: impact; /* Имя шрифта */\r\n    src: url(/fonts/impact.ttf); /* Путь к файлу со шрифтом */\r\n}"]}
